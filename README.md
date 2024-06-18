@@ -19,6 +19,15 @@
 - 💥 Apaixonado por Dados, suas Soluções e Descobertas.
 - 📚 Atualmente sigo estudando com foco em Engenharia de Dados, Arquitetura e Governança.
 
+<h2 align="left">⚙️ I work with these tools:</h2>
+
+- <img src="[https://img.icons8.com/color/48/000000/alteryx.png](https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2)" width="20" height="20"/> Alteryx
+- <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20"/> Python
+- <img src="https://img.icons8.com/color/48/000000/sql.png" width="20" height="20"/> SQL
+- <img src="https://img.icons8.com/color/48/000000/figma.png" width="20" height="20"/> Figma
+- <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="20" height="20"/> Power BI
+
+
 <h2 align="left">🌍 Languages</h2>
 
 | Language      | Proficiency                                                               |
