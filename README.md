@@ -21,11 +21,13 @@
 
 <h2 align="left">⚙️ I work with these tools:</h2>
 
-- <img src="[https://img.icons8.com/color/48/000000/alteryx.png](https://community.alteryx.com/t5/image/serverpage/image-id/259688iF6C1C4BD0BC11851?v=v2)" width="20" height="20"/> Alteryx
-- <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20"/> Python
-- <img src="https://img.icons8.com/color/48/000000/sql.png" width="20" height="20"/> SQL
-- <img src="https://img.icons8.com/color/48/000000/figma.png" width="20" height="20"/> Figma
-- <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="20" height="20"/> Power BI
+<div style="display: inline_block">
+  <img align="center" alt="Matheus-Alteryx" height="30" width="30" src="https://avatars.githubusercontent.com/u/12972388?s=280&v=4">
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="Matheus-Power BI" height="30" width="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png">
+</div>
 
 
 <h2 align="left">🌍 Languages</h2>
